@@ -1,4 +1,4 @@
-# Projeto Node do Curso Web Moderno
+# Projeto Node do Curso Web Moderno CRUD
 Este é um projeto de uma API desenvolvida com Express, que faz parte do curso Web Moderno da Cod3r. A API utiliza um arquivo de banco de dados em memória para armazenar e manipular informações sobre produtos.
 
 ## Instalação
